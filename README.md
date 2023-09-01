@@ -1,9 +1,5 @@
 # Mastering AWS EKS: Building Scalable Kubernetes Clusters with Terraform
 
-![Mastering AWS EKS: Building Scalable Kubernetes Clusters with Terraform - Thumbnail](/architecture-diagram/YT-Thumbnail- Mastering%20AWS%20EKS%20%20Building%20Scalable%20Kubernetes%20Clusters%20with%20Terraform.png)
-
----
-
 ## Architecture Diagram
 
 ![Mastering AWS EKS: Building Scalable Kubernetes Clusters with Terraform - Architecture](/architecture-diagram/Mastering%20AWS%20EKS:%20Building%20Scalable%20Kubernetes%20Clusters%20with%20Terraform%20-%20Architecture.png)
